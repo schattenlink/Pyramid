@@ -38,7 +38,7 @@ For Windows:
     c:\\> env33\\Scripts\\python ez_setup.py
     c:\\> env33\\Scripts\\easy_install "pyramid==\ |release|\ "
 
-Of course Pyramid runs fine on Python 2.6+, as do the examples in this *Quick
+Of course Pyramid runs fine on Python 2.7+, as do the examples in this *Quick
 Tour*. We're just showing Python 3 a little love (Pyramid had production
 support for Python 3 in October 2011).
 
